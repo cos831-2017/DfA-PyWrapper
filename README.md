@@ -4,7 +4,7 @@ Wrapper Python para possibilitar extração de dados de proveniência utilizando
 
 ### Pré-requisitos
 
-#### Python3
-#### IPython
-#### Spark
-#### Java
+* Python3
+* IPython
+* Spark
+* Java
